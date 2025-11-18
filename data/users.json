@@ -1,0 +1,21 @@
+[ {
+  "id" : 1,
+  "name" : "Utpreksha Singh",
+  "email" : "usingh@gmail.com"
+}, {
+  "id" : 2,
+  "name" : "Raman Bhalla",
+  "email" : "rambhalla1@gmail.com"
+}, {
+  "id" : 3,
+  "name" : "Ritwika Kaushal",
+  "email" : "ritw12kshl@gmail.com"
+}, {
+  "id" : 4,
+  "name" : "Yuvaraj Singh",
+  "email" : "yuvi34@gmail.com"
+}, {
+  "id" : 5,
+  "name" : "Ganesh Shiva",
+  "email" : "ganshiv5@gmail.com"
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "accountNumber" : 1000001,
+  "userId" : 1,
+  "balance" : 0.0
+}, {
+  "accountNumber" : 1000002,
+  "userId" : 2,
+  "balance" : 5000.0
+}, {
+  "accountNumber" : 1000003,
+  "userId" : 5,
+  "balance" : 0.0
+}, {
+  "accountNumber" : 1000004,
+  "userId" : 4,
+  "balance" : 200.0
+}, {
+  "accountNumber" : 1000005,
+  "userId" : 3,
+  "balance" : 0.0
+}, {
+  "accountNumber" : 1000006,
+  "userId" : 4,
+  "balance" : 0.0
+}, {
+  "accountNumber" : 1000007,
+  "userId" : 1,
+  "balance" : 800.0
+} ]
